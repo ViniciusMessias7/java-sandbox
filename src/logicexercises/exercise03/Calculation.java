@@ -1,4 +1,4 @@
-package exercises.exercise03;
+package logicexercises.exercise03;
 
 // Create an algorithm that reads two integer values A and B.
 // If the values of A and B are equal, it should sum the two values; otherwise, it should multiply A by B.
