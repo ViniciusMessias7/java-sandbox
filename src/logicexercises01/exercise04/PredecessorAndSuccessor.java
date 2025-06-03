@@ -1,4 +1,4 @@
-package logicexercises.exercise04;
+package logicexercises01.exercise04;
 
 // Create an algorithm that receives an integer and prints its predecessor and successor on the screen.
 

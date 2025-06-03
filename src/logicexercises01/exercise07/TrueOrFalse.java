@@ -1,4 +1,4 @@
-package logicexercises.exercise07;
+package logicexercises01.exercise07;
 
 // Create an algorithm that reads two boolean (logical) values and determines if
 // both are TRUE or FALSE.

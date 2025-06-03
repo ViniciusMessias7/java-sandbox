@@ -1,4 +1,4 @@
-package logicexercises.exercise02;
+package logicexercises01.exercise02;
 
 import java.util.Scanner;
 
